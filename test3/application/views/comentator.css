@@ -1,0 +1,46 @@
+textarea::placeholder
+{
+    text-align:center;
+    padding-top: 65px !important;
+}
+body
+{
+    text-align: center;
+}
+hr
+{
+    margin: 0 100px;
+}
+h3
+{
+    text-align: left;
+    margin-right: 20%;
+    display: inline-block;
+}
+.date
+{
+    display: inline-block;
+    position: absolute;
+    right: 0;
+    margin-right: 200px;
+}
+.comment
+{
+    margin: 0 30%;
+    text-align: initial;
+}
+.pagination
+{
+    font-size: 24px;
+    margin: 30px 0;
+}
+a
+{
+    border: black solid 1px;
+    margin: 10px;
+    padding: 10px;
+    color:black;
+}
+.err {
+    background-color: red;
+}
